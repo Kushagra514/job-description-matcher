@@ -4,6 +4,7 @@ A FastAPI-based REST API that compares a **PDF resume** with a **job description
 
 ---
 
+
 ## 🚀 Features
 
 * 📄 Upload a PDF resume
