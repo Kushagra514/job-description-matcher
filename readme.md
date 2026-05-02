@@ -109,9 +109,6 @@ API will be available at:
 
 ---
 
-## 🌍 Live Demo
-
-👉 *Add your deployed link here*
 
 ---
 
